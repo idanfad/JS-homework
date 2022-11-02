@@ -1,0 +1,16 @@
+.headerDiv {
+    text-align: center;
+}
+
+.btnBlock {
+    text-align: center;
+}
+
+.total {
+    text-align: center;
+    padding-top: 50px;
+}
+
+body {
+    background-color: bisque;
+}
